@@ -1,7 +1,7 @@
 ### Hi, I'm Dimitry 👋
 
 - ⚡️ I’m a PhD in Inorganic Chemistry who uses X-ray diffraction and total scattering techniques to study structures of new compounds.
-- 🐍 I’m learning how to use Python for data processing and analysis.
+- 🐍 I’m learning how to use Python for data processing, analysis and presentation.
 
 <!--
 **grebenyyk/grebenyyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
